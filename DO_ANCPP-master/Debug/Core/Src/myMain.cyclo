@@ -1,0 +1,11 @@
+../Core/Src/myMain.cpp:42:6:void HAL_GPIO_EXTI_Callback(uint16_t)	1
+../Core/Src/myMain.cpp:51:6:void enter_sleep_mode()	3
+../Core/Src/myMain.cpp:81:6:void add_heart_beat(uint8_t)	8
+../Core/Src/myMain.cpp:127:6:void HAL_ADC_ConvCpltCallback(ADC_HandleTypeDef*)	4
+../Core/Src/myMain.cpp:145:6:void init()	1
+../Core/Src/myMain.cpp:170:6:void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef*)	7
+../Core/Src/myMain.cpp:209:6:void loop()	29
+../Core/Src/myMain.cpp:349:10:void initC()	1
+../Core/Src/myMain.cpp:356:10:void loopC()	1
+../Core/Src/myMain.cpp:360:1:void __static_initialization_and_destruction_0(int, int)	3
+../Core/Src/myMain.cpp:360:1:cpp)	1
